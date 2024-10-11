@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Java, Python, Rust and Cybersecurity at Rowan University
 - 💞️ I’m looking to collaborate on anything coding or cybersecurity related.
 - 📫 You can reach me on Linkedin: atilla-turan
-- 😄 Pronouns: He/Him
